@@ -1,3 +1,4 @@
+# Using pack
 from tkinter import *
 from PIL import ImageTk, Image
 # To install Pillow use: pip install Pillow
